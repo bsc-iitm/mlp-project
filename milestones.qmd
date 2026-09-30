@@ -1,0 +1,44 @@
+## Milestones
+
+Milestones are sequential checkpoints designed to ensure continual progress and to assist you through the complexities of a complete classical ML pipeline. They are not meant to be limiting or exhaustive; in fact, these five submissions represent only a small fraction of the actual coding and experimentation you will conduct overall. 
+Treat them as a supportive element. Do the heavy lifting in your notebooks first, then use these milestones to step back and concisely articulate the reasoning behind your key technical decisions.
+
+## Submission Instructions
+
+::: {.callout-important title="Formatting and Submission Rules"}
+Please read and follow these instructions carefully. Strict adherence to the formatting and naming conventions is required to ensure your submission is processed correctly by the automated grading pipeline.
+:::
+
+1. **Document Preparation**
+    - Create a copy of the provided `.docx` template for the current milestone.
+    - Write your answers directly beneath each of the 10 questions in the document.
+
+2. **Answering Guidelines**
+    - **Length Constraint:** Keep your answers concise. Provide **no more than 10 lines** of text per question.
+    - **Content Focus:** For every question, you must clearly describe the specific classical machine learning approach you have taken and the underlying reasoning for your decisions. Focus on the *why* and *how*.
+
+3. **File Naming and Export**
+    - Once you have finished writing your report, save or export the `.docx` document as a **PDF**.
+    - Rename the PDF file using the following exact convention: 
+      `[roll-number]_26t3_M[Milestone-Number].pdf`
+    - **Example:** If your roll number is `21f1001234` and you are submitting the PDF for Milestone 1, your file must be named exactly:
+      `21f1001234_26t3_M1.pdf`
+
+::: {.callout-warning}
+### Note on Evaluation
+Failure to follow the exact file naming convention may result in parsing errors during evaluation. Please double-check your file name before uploading.
+:::
+
+## Timeline
+
+Following the milestones and completing the corresponding assignments is mandatory to complete the project. The questions for the milestones will be shared via a form in the course portal. **The milestone is considered submitted only when you receive the response copy to your email ID.**
+
+| Milestones | Deadline |
+| :---: | :---: |
+| Milestone 1 | Oct 11, 2026 Sunday |
+| Milestone 2 | Oct 18, 2026 Sunday |
+| Milestone 3 | Oct 25, 2026 Sunday |
+| Milestone 4 | Nov 1, 2026 Sunday |
+| Milestone 5 | Nov 8, 2026 Sunday |
+
+There will be an assignment in the corresponding week for each of the above milestones in the Seek portal.

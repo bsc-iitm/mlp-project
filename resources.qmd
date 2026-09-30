@@ -1,0 +1,16 @@
+## Adding the Admin as a Collaborator
+
+1. Go to the competition page $\rightarrow$ **Code** $\rightarrow$ **Your Work**.
+   ![Image 3](images\nb_share_1.png)
+2. Click the **Share** button on the top right.
+   ![Image 4](images\nb_share_2.png)
+3. Set privacy to **Private**. Do not make it public, or you risk plagiarism offenses.
+   ![Image 5](images\nb_share_3.png)
+4. Search for the admin’s username: **`iitmbscs2008p`**. Do not add other collaborators.
+   ![Image 6](images\nb_share_4.png)
+5. Grant **"can view"** access.
+   ![Image 7](images\nb_share_5.png)
+6. Ensure "Allow comments" is toggled **On**.
+7. Click **Save**.
+   ![Image 8](images\nb_share_6.png)
+8. Do not change this setting until the end of the term. If the admin loses access, your project will be invalidated.

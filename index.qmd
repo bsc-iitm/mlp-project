@@ -1,0 +1,40 @@
+---
+title: "MLP Project Guidelines"
+---
+
+## Course Overview
+
+The MLP Project is a rigorous, hands-on classical machine learning course centered around a Kaggle competition. It requires students to build an end-to-end ML pipeline from exploratory data analysis and preprocessing to feature engineering and model tuning using classical ML libraries. 
+
+This website serves as the central handbook for the project. It outlines the deadlines, mandatory milestones, evaluation formulas, and the two-stage Viva examination process required to successfully complete the course. 
+
+---
+
+## Website Navigation Guide
+
+The following is a breakdown of the pages on this website and what you will find on each to help you navigate effectively:
+
+### Guidelines
+This is the most comprehensive page on the site. It covers the fundamental rules of the project, including:
+
+* **Workflow & Dates:** Key competition dates and deadlines.
+* **Evaluation Formula:** The exact breakdown of the 100-mark grading system 
+* **Rules & Allowed Libraries:** A strict whitelist of permitted tools (e.g., Scikit-learn, XGBoost, Pandas) and a blacklist of forbidden tools (e.g., TensorFlow, PyTorch, NLTK).
+
+### Essentials
+A strict "Do's and Don'ts" reference sheet designed to help you avoid immediate failure.
+
+* **The Checklist:** Summarizes the absolute minimum requirements to pass (registration, 2/5 milestones, crossing the Kaggle cut-off, notebook readiness, and clearing both Vivas).
+* **Grounds for Invalidation:** Outlines exactly what will get your project discarded, such as plagiarism, making your notebook public, direct `.csv` uploads instead of notebook execution, or using unauthorized external data.
+
+### Milestones
+This page details how to handle the 5 sequential checkpoints required throughout the project.
+
+* **Naming Conventions:** Provides the exact file naming format (`[roll-number]_26t3_M[Milestone-Number].pdf`) required to avoid automated grading errors.
+* **Timeline:** Lists the deadlines for all 5 milestones. 
+
+### Frequently Asked Questions (FAQ)
+A collection of common queries and their answers
+
+### Resources
+Any relevant links, images, and resources that will assist you in the completion of the project will be added here. 

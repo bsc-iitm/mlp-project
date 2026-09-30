@@ -1,0 +1,68 @@
+---
+format: html
+toc: true
+---
+
+## Minimum Requirements for Project Completion
+
+:::{.callout-important title="Mandatory Reading"}
+**Disclaimer:** This document serves as a quick reference checklist to help you track your progress. However, it does not replace the main guidelines. You are expected to read the complete **[Project Guidelines Document](guidelines.html)** at least once to fully understand the evaluation formulas, strict timelines, and comprehensive rules. Ignorance of the full guidelines will not be accepted as an excuse for invalidation.
+:::
+
+To successfully pass the project course, you must meet all evaluation criteria and follow the structured workflow. Please ensure you have completed all of the following mandatory steps. You can use this checklist to track your progress:
+
+**1. Successful Registration**
+
+  - [ ] Create an account on Kaggle if you do not already have one.
+  - [ ] Join the competition link provided in the guidelines.
+  - [ ] Name the notebook as per the naming convention (`YourRollNo-notebook-2026t3`).
+  - [ ] Share the notebook with the admin collaborator (`iitmbscs2008p`) with "can view" access and keep it Private.
+  - [ ] Build a baseline model and make a valid first submission through the registered notebook.  
+  - [ ] Submit your notebook link via the Registration Google Form before the deadline (Nov 1, 2026).
+
+**2. Milestone Submissions**
+
+  - [ ] Complete and submit at least **2 out of 5** project milestones via the Seek portal before their respective deadlines. (A milestone is only considered complete when you receive the email response copy).
+
+**3. Cross the Cut-off**
+
+  - [ ] Achieve the minimum required score to cross the cut-off threshold on the Kaggle Leaderboard before your specific term's deadline.
+
+**4. Notebook Readiness (Level 1 Checklist)**
+
+  - [ ] Ensure your notebook meets all the minimum requirements outlined in the [Level 1 Viva Checkpoints](guidelines_v3.html#level-1-viva-checklist) section of the project guidelines.
+
+**5. Clear the Level 1 Viva**
+
+  - [ ] Successfully appear for and pass the Level 1 Viva examination in your designated batch.
+  - [ ] The Level 1 Viva will evaluate your notebook based on the Level 1 Viva Checkpoints, your understanding of the code and the underlying ML concepts, and your ability to code and debug in real-time.
+  - [ ] If you fail the Level 1 Viva, you will be given a single reattempt if you have attempted in Batch 1. Failing the reattempt will require you to repeat the project in the next term.
+
+**6. Clear the Level 2 Viva**
+
+  - [ ] Successfully appear for the Level 2 Viva and score at least **25/50 marks** in your designated batch. 
+  - [ ] Failing the Level 2 Viva will require you to repeat the project in the next term. There will be no reattempt for Level 2 Viva.
+
+## Invalidation of Project Submission
+
+Your project submission will be strictly discarded, and you will fail the course (requiring you to repeat the project in the next term) if any of the following violations occur:
+
+### Registration & Access Violations
+* **Incomplete Registration:** Failing to successfully submit the Registration Google Form. Without this form, you are ineligible to complete the project or attempt the vivas.
+* **Mismatched Notebooks:** Submitting a different Kaggle notebook link in the Registration Form than the one you are actually using to make your submissions.
+* **Revoked Access:** Failing to maintain "can view" access for the admin (`iitmbscs2008p`) on your `FinalNotebook` until the end of the term.
+* **Public Notebook:** Making your Kaggle notebook public at any point. It must remain strictly private to avoid plagiarism risks.
+
+### Submission Violations
+* **Direct File Uploads:** Making submissions by explicitly uploading `.csv`, `.zip`, or any other file formats to Kaggle will make invalidate the project. **Only** submissions made directly from the executed `FinalNotebook` will be counted.
+* **Insufficient Milestones:** Submitting fewer than the mandatory minimum of 2 out of 5 project milestones.
+
+### Academic & Technical Violations
+* **Plagiarism:** Any instance of plagiarizing code, insights, or models from the internet, a fellow student, or external sources. (Note: Participate individually; this is not a group project).
+* **Unauthorized Libraries:** Using deep learning,  prohibited machine learning frameworks or libraries such as TensorFlow, PyTorch, NLTK, Pickle, AutoML frameworks, spaCy, word2vec, or textblob. 
+* **External Data:** Using any external data to train your model.
+* **Off-Platform Execution:** Evaluating based on locally run experiments or pre-trained models. All end-to-end work must be visible and executed within the Kaggle notebook.
+
+### Evaluation Failures
+* **Missing Deadlines:** Failing to cross the Kaggle Leaderboard score cut-off by your term's designated deadline.
+* **Missed or Failed Vivas:** Not booking a slot/appearing for your viva in the designated batch, failing the Level 1 Viva (and its single reattempt), or scoring below 25/50 on the Level 2 Viva (which has no reattempt).

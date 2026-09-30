@@ -1,0 +1,23 @@
+{
+  "about.qmd": {
+    "about.html": "1182bab9"
+  },
+  "index.qmd": {
+    "index.html": "f6317e36"
+  },
+  "guidelines.qmd": {
+    "guidelines.html": "098ef812"
+  },
+  "milestones.qmd": {
+    "milestones.html": "0f6a3025"
+  },
+  "essentials.qmd": {
+    "essentials.html": "4fb9a9f8"
+  },
+  "resources.qmd": {
+    "resources.html": "04baa41a"
+  },
+  "faq.qmd": {
+    "faq.html": "fd2d0e27"
+  }
+}

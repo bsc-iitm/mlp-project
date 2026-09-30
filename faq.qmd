@@ -1,0 +1,51 @@
+## Course Structure and Prerequisites
+
+**1. Is it mandatory to complete the MLP Project in the same term as the MLP theory course?**\
+**Answer:** No, students may complete the MLP Project in a subsequent term. It is highly recommended to complete the MLP theory course prior to undertaking the project to acquire the requisite foundational knowledge. However, students opting to undertake the project in the same term must ensure familiarity with the concepts and techniques covered in the theory course to facilitate successful project completion.
+
+**2. How should I proceed if I am undertaking both the MLP theory course and the MLP Project concurrently, and the project milestones require concepts not yet covered in the theory lectures?**\
+**Answer:** Students pursuing both courses concurrently must adopt a proactive approach and independently study the relevant theoretical concepts at an accelerated pace. The first seven weeks of the MLP theory course curriculum encompass the concepts necessary for completing the project milestones.
+
+## Registration Process
+
+**3. How can I verify that my project registration is complete and successful?**\
+**Answer:** The course administration team will provide a status verification link by October 15, 2026. Following this date, the registration status on the provided link will be updated every 48 hours.
+
+**4. What action should I take if I have completed all registration steps, but my status remains "incomplete"?**\
+**Answer:** The status portal is refreshed every 48 hours. Please allow 48 hours to pass before rechecking the link. If the status remains incomplete thereafter, kindly submit an inquiry via the support form available on the course portal.
+
+**5. How is my registration status updated after I have identified and rectified an issue with my registration?**\
+**Answer:** The registration status is updated automatically every 48 hours. After implementing the necessary corrections, please wait for 48 hours and verify your status again via the provided link.
+
+## Project Submissions and Evaluation
+
+**6. Am I still eligible to complete the MLP Project if I miss a milestone submission?**\
+**Answer:** Yes, eligibility to complete the MLP Project is retained. However, students must submit a minimum of two out of the five milestones to qualify for final evaluation. Milestones that are not submitted will receive a score of zero.
+
+## Viva Examination
+
+**7. Is it permissible to attempt the Viva examination prior to the MLP Project submission deadline?**\
+**Answer:** Yes, students may attempt the Viva examination before the MLP Project deadline, provided they are thoroughly prepared for the assessment.
+
+**8. Am I allowed to make submissions after completing the Viva examination?**\
+**Answer:** Yes, if the Viva examination is completed before the project deadline, students may continue to make submissions. However, no submission will be accepted or evaluated after the official deadline has passed.
+
+**9. Is it possible to submit the MLP Project in the current term and defer the Viva examination to the subsequent term?**\
+**Answer:** No, both the MLP Project submission and the Viva examination must be completed within the same term. The problem statement will change in the following term, necessitating a repetition of the entire submission and evaluation process.
+
+**10. When are the Viva examinations scheduled to take place?**\
+**Answer:** The Viva examinations are tentatively scheduled to commence during the second week of November. The precise dates and timeline will be communicated by the course team at the end of October.
+
+**11. What is the official process for qualifying for and attending the Viva examination?**\
+**Answer:** The primary prerequisite for Viva examination eligibility is achieving the minimum cut-off score on the Kaggle leaderboard. Further instructions regarding the examination process will be issued by the course team at the end of October.
+
+## Course Resources and Links
+
+**12. Where can I access the MLP theory course video playlist?**\
+**Answer:** The MLP theory course playlist is available on YouTube at the following link: [https://www.youtube.com/playlist?list=PLZ2ps__7DhBb3ovNQam2c_WcGeiW9OhQo](https://www.youtube.com/playlist?list=PLZ2ps__7DhBb3ovNQam2c_WcGeiW9OhQo)
+
+**13. Where is the link to the MLP Project Kaggle competition located?**\
+**Answer:** The link to the Kaggle competition is provided within the competition registration form. Please refer to the guidelines section access.
+
+**14. Where can I find the recording or link for the MLP Project orientation session?**\
+**Answer:** Following the session, the link will be posted on the official Machine Learning Practice YouTube channel ([https://www.youtube.com/@MachineLearningPractice](https://www.youtube.com/@MachineLearningPractice)) and will also be accessible via the course portal.

@@ -1,0 +1,205 @@
+[
+  {
+    "objectID": "resources.html",
+    "href": "resources.html",
+    "title": "MLP Project Guidelines",
+    "section": "",
+    "text": "Go to the competition page \\(\\rightarrow\\) Code \\(\\rightarrow\\) Your Work. \nClick the Share button on the top right. \nSet privacy to Private. Do not make it public, or you risk plagiarism offenses. \nSearch for the admin’s username: iitmbscs2008p. Do not add other collaborators. \nGrant “can view” access. \nEnsure “Allow comments” is toggled On.\nClick Save. \nDo not change this setting until the end of the term. If the admin loses access, your project will be invalidated."
+  },
+  {
+    "objectID": "resources.html#adding-the-admin-as-a-collaborator",
+    "href": "resources.html#adding-the-admin-as-a-collaborator",
+    "title": "MLP Project Guidelines",
+    "section": "",
+    "text": "Go to the competition page \\(\\rightarrow\\) Code \\(\\rightarrow\\) Your Work. \nClick the Share button on the top right. \nSet privacy to Private. Do not make it public, or you risk plagiarism offenses. \nSearch for the admin’s username: iitmbscs2008p. Do not add other collaborators. \nGrant “can view” access. \nEnsure “Allow comments” is toggled On.\nClick Save. \nDo not change this setting until the end of the term. If the admin loses access, your project will be invalidated."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "MLP Project Guidelines",
+    "section": "",
+    "text": "The MLP Project is a rigorous, hands-on classical machine learning course centered around a Kaggle competition. It requires students to build an end-to-end ML pipeline from exploratory data analysis and preprocessing to feature engineering and model tuning using classical ML libraries.\nThis website serves as the central handbook for the project. It outlines the deadlines, mandatory milestones, evaluation formulas, and the two-stage Viva examination process required to successfully complete the course."
+  },
+  {
+    "objectID": "index.html#course-overview",
+    "href": "index.html#course-overview",
+    "title": "MLP Project Guidelines",
+    "section": "",
+    "text": "The MLP Project is a rigorous, hands-on classical machine learning course centered around a Kaggle competition. It requires students to build an end-to-end ML pipeline from exploratory data analysis and preprocessing to feature engineering and model tuning using classical ML libraries.\nThis website serves as the central handbook for the project. It outlines the deadlines, mandatory milestones, evaluation formulas, and the two-stage Viva examination process required to successfully complete the course."
+  },
+  {
+    "objectID": "index.html#website-navigation-guide",
+    "href": "index.html#website-navigation-guide",
+    "title": "MLP Project Guidelines",
+    "section": "Website Navigation Guide",
+    "text": "Website Navigation Guide\nThe following is a breakdown of the pages on this website and what you will find on each to help you navigate effectively:\n\nGuidelines\nThis is the most comprehensive page on the site. It covers the fundamental rules of the project, including:\n\nWorkflow & Dates: Key competition dates and deadlines.\nEvaluation Formula: The exact breakdown of the 100-mark grading system\nRules & Allowed Libraries: A strict whitelist of permitted tools (e.g., Scikit-learn, XGBoost, Pandas) and a blacklist of forbidden tools (e.g., TensorFlow, PyTorch, NLTK).\n\n\n\nEssentials\nA strict “Do’s and Don’ts” reference sheet designed to help you avoid immediate failure.\n\nThe Checklist: Summarizes the absolute minimum requirements to pass (registration, 2/5 milestones, crossing the Kaggle cut-off, notebook readiness, and clearing both Vivas).\nGrounds for Invalidation: Outlines exactly what will get your project discarded, such as plagiarism, making your notebook public, direct .csv uploads instead of notebook execution, or using unauthorized external data.\n\n\n\nMilestones\nThis page details how to handle the 5 sequential checkpoints required throughout the project.\n\nNaming Conventions: Provides the exact file naming format ([roll-number]_26t3_M[Milestone-Number].pdf) required to avoid automated grading errors.\nTimeline: Lists the deadlines for all 5 milestones.\n\n\n\nFrequently Asked Questions (FAQ)\nA collection of common queries and their answers\n\n\nResources\nAny relevant links, images, and resources that will assist you in the completion of the project will be added here."
+  },
+  {
+    "objectID": "faq.html",
+    "href": "faq.html",
+    "title": "MLP Project Guidelines",
+    "section": "",
+    "text": "1. Is it mandatory to complete the MLP Project in the same term as the MLP theory course?\nAnswer: No, students may complete the MLP Project in a subsequent term. It is highly recommended to complete the MLP theory course prior to undertaking the project to acquire the requisite foundational knowledge. However, students opting to undertake the project in the same term must ensure familiarity with the concepts and techniques covered in the theory course to facilitate successful project completion.\n2. How should I proceed if I am undertaking both the MLP theory course and the MLP Project concurrently, and the project milestones require concepts not yet covered in the theory lectures?\nAnswer: Students pursuing both courses concurrently must adopt a proactive approach and independently study the relevant theoretical concepts at an accelerated pace. The first seven weeks of the MLP theory course curriculum encompass the concepts necessary for completing the project milestones."
+  },
+  {
+    "objectID": "faq.html#course-structure-and-prerequisites",
+    "href": "faq.html#course-structure-and-prerequisites",
+    "title": "MLP Project Guidelines",
+    "section": "",
+    "text": "1. Is it mandatory to complete the MLP Project in the same term as the MLP theory course?\nAnswer: No, students may complete the MLP Project in a subsequent term. It is highly recommended to complete the MLP theory course prior to undertaking the project to acquire the requisite foundational knowledge. However, students opting to undertake the project in the same term must ensure familiarity with the concepts and techniques covered in the theory course to facilitate successful project completion.\n2. How should I proceed if I am undertaking both the MLP theory course and the MLP Project concurrently, and the project milestones require concepts not yet covered in the theory lectures?\nAnswer: Students pursuing both courses concurrently must adopt a proactive approach and independently study the relevant theoretical concepts at an accelerated pace. The first seven weeks of the MLP theory course curriculum encompass the concepts necessary for completing the project milestones."
+  },
+  {
+    "objectID": "faq.html#registration-process",
+    "href": "faq.html#registration-process",
+    "title": "MLP Project Guidelines",
+    "section": "Registration Process",
+    "text": "Registration Process\n3. How can I verify that my project registration is complete and successful?\nAnswer: The course administration team will provide a status verification link by October 15, 2026. Following this date, the registration status on the provided link will be updated every 48 hours.\n4. What action should I take if I have completed all registration steps, but my status remains “incomplete”?\nAnswer: The status portal is refreshed every 48 hours. Please allow 48 hours to pass before rechecking the link. If the status remains incomplete thereafter, kindly submit an inquiry via the support form available on the course portal.\n5. How is my registration status updated after I have identified and rectified an issue with my registration?\nAnswer: The registration status is updated automatically every 48 hours. After implementing the necessary corrections, please wait for 48 hours and verify your status again via the provided link."
+  },
+  {
+    "objectID": "faq.html#project-submissions-and-evaluation",
+    "href": "faq.html#project-submissions-and-evaluation",
+    "title": "MLP Project Guidelines",
+    "section": "Project Submissions and Evaluation",
+    "text": "Project Submissions and Evaluation\n6. Am I still eligible to complete the MLP Project if I miss a milestone submission?\nAnswer: Yes, eligibility to complete the MLP Project is retained. However, students must submit a minimum of two out of the five milestones to qualify for final evaluation. Milestones that are not submitted will receive a score of zero."
+  },
+  {
+    "objectID": "faq.html#viva-examination",
+    "href": "faq.html#viva-examination",
+    "title": "MLP Project Guidelines",
+    "section": "Viva Examination",
+    "text": "Viva Examination\n7. Is it permissible to attempt the Viva examination prior to the MLP Project submission deadline?\nAnswer: Yes, students may attempt the Viva examination before the MLP Project deadline, provided they are thoroughly prepared for the assessment.\n8. Am I allowed to make submissions after completing the Viva examination?\nAnswer: Yes, if the Viva examination is completed before the project deadline, students may continue to make submissions. However, no submission will be accepted or evaluated after the official deadline has passed.\n9. Is it possible to submit the MLP Project in the current term and defer the Viva examination to the subsequent term?\nAnswer: No, both the MLP Project submission and the Viva examination must be completed within the same term. The problem statement will change in the following term, necessitating a repetition of the entire submission and evaluation process.\n10. When are the Viva examinations scheduled to take place?\nAnswer: The Viva examinations are tentatively scheduled to commence during the second week of November. The precise dates and timeline will be communicated by the course team at the end of October.\n11. What is the official process for qualifying for and attending the Viva examination?\nAnswer: The primary prerequisite for Viva examination eligibility is achieving the minimum cut-off score on the Kaggle leaderboard. Further instructions regarding the examination process will be issued by the course team at the end of October."
+  },
+  {
+    "objectID": "faq.html#course-resources-and-links",
+    "href": "faq.html#course-resources-and-links",
+    "title": "MLP Project Guidelines",
+    "section": "Course Resources and Links",
+    "text": "Course Resources and Links\n12. Where can I access the MLP theory course video playlist?\nAnswer: The MLP theory course playlist is available on YouTube at the following link: https://www.youtube.com/playlist?list=PLZ2ps__7DhBb3ovNQam2c_WcGeiW9OhQo\n13. Where is the link to the MLP Project Kaggle competition located?\nAnswer: The link to the Kaggle competition is provided within the competition registration form. Please refer to the guidelines section access.\n14. Where can I find the recording or link for the MLP Project orientation session?\nAnswer: Following the session, the link will be posted on the official Machine Learning Practice YouTube channel (https://www.youtube.com/@MachineLearningPractice) and will also be accessible via the course portal."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "essentials.html",
+    "href": "essentials.html",
+    "title": "MLP Project Guidelines",
+    "section": "",
+    "text": "ImportantMandatory Reading\n\n\n\nDisclaimer: This document serves as a quick reference checklist to help you track your progress. However, it does not replace the main guidelines. You are expected to read the complete Project Guidelines Document at least once to fully understand the evaluation formulas, strict timelines, and comprehensive rules. Ignorance of the full guidelines will not be accepted as an excuse for invalidation.\n\n\nTo successfully pass the project course, you must meet all evaluation criteria and follow the structured workflow. Please ensure you have completed all of the following mandatory steps. You can use this checklist to track your progress:\n1. Successful Registration\n\nCreate an account on Kaggle if you do not already have one.\nJoin the competition link provided in the guidelines.\nName the notebook as per the naming convention (YourRollNo-notebook-2026t3).\nShare the notebook with the admin collaborator (iitmbscs2008p) with “can view” access and keep it Private.\nBuild a baseline model and make a valid first submission through the registered notebook.\n\nSubmit your notebook link via the Registration Google Form before the deadline (Nov 1, 2026).\n\n2. Milestone Submissions\n\nComplete and submit at least 2 out of 5 project milestones via the Seek portal before their respective deadlines. (A milestone is only considered complete when you receive the email response copy).\n\n3. Cross the Cut-off\n\nAchieve the minimum required score to cross the cut-off threshold on the Kaggle Leaderboard before your specific term’s deadline.\n\n4. Notebook Readiness (Level 1 Checklist)\n\nEnsure your notebook meets all the minimum requirements outlined in the Level 1 Viva Checkpoints section of the project guidelines.\n\n5. Clear the Level 1 Viva\n\nSuccessfully appear for and pass the Level 1 Viva examination in your designated batch.\nThe Level 1 Viva will evaluate your notebook based on the Level 1 Viva Checkpoints, your understanding of the code and the underlying ML concepts, and your ability to code and debug in real-time.\nIf you fail the Level 1 Viva, you will be given a single reattempt if you have attempted in Batch 1. Failing the reattempt will require you to repeat the project in the next term.\n\n6. Clear the Level 2 Viva\n\nSuccessfully appear for the Level 2 Viva and score at least 25/50 marks in your designated batch.\nFailing the Level 2 Viva will require you to repeat the project in the next term. There will be no reattempt for Level 2 Viva."
+  },
+  {
+    "objectID": "essentials.html#minimum-requirements-for-project-completion",
+    "href": "essentials.html#minimum-requirements-for-project-completion",
+    "title": "MLP Project Guidelines",
+    "section": "",
+    "text": "ImportantMandatory Reading\n\n\n\nDisclaimer: This document serves as a quick reference checklist to help you track your progress. However, it does not replace the main guidelines. You are expected to read the complete Project Guidelines Document at least once to fully understand the evaluation formulas, strict timelines, and comprehensive rules. Ignorance of the full guidelines will not be accepted as an excuse for invalidation.\n\n\nTo successfully pass the project course, you must meet all evaluation criteria and follow the structured workflow. Please ensure you have completed all of the following mandatory steps. You can use this checklist to track your progress:\n1. Successful Registration\n\nCreate an account on Kaggle if you do not already have one.\nJoin the competition link provided in the guidelines.\nName the notebook as per the naming convention (YourRollNo-notebook-2026t3).\nShare the notebook with the admin collaborator (iitmbscs2008p) with “can view” access and keep it Private.\nBuild a baseline model and make a valid first submission through the registered notebook.\n\nSubmit your notebook link via the Registration Google Form before the deadline (Nov 1, 2026).\n\n2. Milestone Submissions\n\nComplete and submit at least 2 out of 5 project milestones via the Seek portal before their respective deadlines. (A milestone is only considered complete when you receive the email response copy).\n\n3. Cross the Cut-off\n\nAchieve the minimum required score to cross the cut-off threshold on the Kaggle Leaderboard before your specific term’s deadline.\n\n4. Notebook Readiness (Level 1 Checklist)\n\nEnsure your notebook meets all the minimum requirements outlined in the Level 1 Viva Checkpoints section of the project guidelines.\n\n5. Clear the Level 1 Viva\n\nSuccessfully appear for and pass the Level 1 Viva examination in your designated batch.\nThe Level 1 Viva will evaluate your notebook based on the Level 1 Viva Checkpoints, your understanding of the code and the underlying ML concepts, and your ability to code and debug in real-time.\nIf you fail the Level 1 Viva, you will be given a single reattempt if you have attempted in Batch 1. Failing the reattempt will require you to repeat the project in the next term.\n\n6. Clear the Level 2 Viva\n\nSuccessfully appear for the Level 2 Viva and score at least 25/50 marks in your designated batch.\nFailing the Level 2 Viva will require you to repeat the project in the next term. There will be no reattempt for Level 2 Viva."
+  },
+  {
+    "objectID": "essentials.html#invalidation-of-project-submission",
+    "href": "essentials.html#invalidation-of-project-submission",
+    "title": "MLP Project Guidelines",
+    "section": "Invalidation of Project Submission",
+    "text": "Invalidation of Project Submission\nYour project submission will be strictly discarded, and you will fail the course (requiring you to repeat the project in the next term) if any of the following violations occur:\n\nRegistration & Access Violations\n\nIncomplete Registration: Failing to successfully submit the Registration Google Form. Without this form, you are ineligible to complete the project or attempt the vivas.\nMismatched Notebooks: Submitting a different Kaggle notebook link in the Registration Form than the one you are actually using to make your submissions.\nRevoked Access: Failing to maintain “can view” access for the admin (iitmbscs2008p) on your FinalNotebook until the end of the term.\nPublic Notebook: Making your Kaggle notebook public at any point. It must remain strictly private to avoid plagiarism risks.\n\n\n\nSubmission Violations\n\nDirect File Uploads: Making submissions by explicitly uploading .csv, .zip, or any other file formats to Kaggle will make invalidate the project. Only submissions made directly from the executed FinalNotebook will be counted.\nInsufficient Milestones: Submitting fewer than the mandatory minimum of 2 out of 5 project milestones.\n\n\n\nAcademic & Technical Violations\n\nPlagiarism: Any instance of plagiarizing code, insights, or models from the internet, a fellow student, or external sources. (Note: Participate individually; this is not a group project).\nUnauthorized Libraries: Using deep learning, prohibited machine learning frameworks or libraries such as TensorFlow, PyTorch, NLTK, Pickle, AutoML frameworks, spaCy, word2vec, or textblob.\nExternal Data: Using any external data to train your model.\nOff-Platform Execution: Evaluating based on locally run experiments or pre-trained models. All end-to-end work must be visible and executed within the Kaggle notebook.\n\n\n\nEvaluation Failures\n\nMissing Deadlines: Failing to cross the Kaggle Leaderboard score cut-off by your term’s designated deadline.\nMissed or Failed Vivas: Not booking a slot/appearing for your viva in the designated batch, failing the Level 1 Viva (and its single reattempt), or scoring below 25/50 on the Level 2 Viva (which has no reattempt)."
+  },
+  {
+    "objectID": "guidelines.html",
+    "href": "guidelines.html",
+    "title": "Guidelines",
+    "section": "",
+    "text": "Create a Kaggle account if you don’t already have one.\nJoin the Competition using the link provided in the registration form: https://forms.gle/feAcuNCyyLHWzo6u5\nAfter joining the competition, go to the Code tab and create a New Notebook.\nKeep the notebook name as YourRollNo-notebook-2026t3.\n\nExample 1: If your Roll No is 21f1001234 \\(\\rightarrow\\) 21f1001234-notebook-2026t3\nExample 2: If your Roll No is 21ds3003454 \\(\\rightarrow\\) 21ds3003454-notebook-2026t3\n\nShare the notebook with collaborator iitmbscs2008p. View access is sufficient. Keep it Private.\n\nNote: If access is not maintained until the end of the term, this will be treated as an unsuccessful registration.\n\nBuild your first ML model (e.g., dummy or any other) and make your first submission.\nSubmit your notebook link in the Competition Registration Form.\nCheck your status regularly. Without submitting the form, you will not be eligible to complete the project or attempt the viva.\n\n\n\n\n\n\n\n\nImportantRegistration Deadline\n\n\n\nThe deadline to successfully register is 11:59 PM IST on Nov 1, 2026. Subsequent registrations will incur a penalty of 1 mark per week."
+  },
+  {
+    "objectID": "guidelines.html#project-registration-7-easy-steps",
+    "href": "guidelines.html#project-registration-7-easy-steps",
+    "title": "Guidelines",
+    "section": "",
+    "text": "Create a Kaggle account if you don’t already have one.\nJoin the Competition using the link provided in the registration form: https://forms.gle/feAcuNCyyLHWzo6u5\nAfter joining the competition, go to the Code tab and create a New Notebook.\nKeep the notebook name as YourRollNo-notebook-2026t3.\n\nExample 1: If your Roll No is 21f1001234 \\(\\rightarrow\\) 21f1001234-notebook-2026t3\nExample 2: If your Roll No is 21ds3003454 \\(\\rightarrow\\) 21ds3003454-notebook-2026t3\n\nShare the notebook with collaborator iitmbscs2008p. View access is sufficient. Keep it Private.\n\nNote: If access is not maintained until the end of the term, this will be treated as an unsuccessful registration.\n\nBuild your first ML model (e.g., dummy or any other) and make your first submission.\nSubmit your notebook link in the Competition Registration Form.\nCheck your status regularly. Without submitting the form, you will not be eligible to complete the project or attempt the viva.\n\n\n\n\n\n\n\n\nImportantRegistration Deadline\n\n\n\nThe deadline to successfully register is 11:59 PM IST on Nov 1, 2026. Subsequent registrations will incur a penalty of 1 mark per week."
+  },
+  {
+    "objectID": "guidelines.html#project-workflow-timelines",
+    "href": "guidelines.html#project-workflow-timelines",
+    "title": "Guidelines",
+    "section": "Project Workflow & Timelines",
+    "text": "Project Workflow & Timelines\n\n\n\nProject Workflow Diagram\n\n\n\nKey Dates\n\nRelease of project statement: 30-09-2026\nExtension of Deadline for submitting notebook link: Nov 1, 2026\nKaggle competition deadline: Nov 15, 2026\nLatest Viva & Evaluation Policy: Click here\n\n\n\nMLP Project Evaluation Timelines\n\n\n\n\n\n\n\n\n\nMLP Course Theory Completion Term\nDeadline to Cross Cutoff\nDeadline to Complete Both Vivas\nEvaluation Scheme\n\n\n\n\nJan 2026 and earlier\nNov 15, 2026\nDec 6, 2026\nEvaluated out of 100 marks.\n\n\nMay 2026\nNov 15, 2026\nDec 6, 2026\nEvaluated out of 105 marks.\n\n\nSep 2026\nNov 22, 2026\nDec 20, 2026\nEvaluated out of 105 marks. The bonus is subject to the Viva completion batch.\n\n\n\n\n\nCriterion for Bonus Marks\nStudents who have completed the MLP theory course in May 2026 or are pursuing it in the Sep 2026 term, are eligible for up to 5 bonus marks depending on their Level-2 viva batches:\n\nBatch 1: Eligible for 5 marks bonus, viva reattempt allowed in case of failure.\nBatch 2: No bonus marks, no reattempt of viva.\n\n\n\n\n\n\n\nWarning\n\n\n\nThe Kaggle competition will effectively run for a maximum of 6 weeks (45 days). The cut-off has to be crossed by the dates mentioned above. Failure to do so will require repeating the project in the next term.\n\n\n\n\n\n\n\n\nNote\n\n\n\nYou may continue to participate in the competition and improve your score even after completing your viva, until the competition ends. However, students who do not meet the deadline for completing both vivas will not be given any further opportunities."
+  },
+  {
+    "objectID": "guidelines.html#evaluation-passing-criteria",
+    "href": "guidelines.html#evaluation-passing-criteria",
+    "title": "Guidelines",
+    "section": "Evaluation & Passing Criteria",
+    "text": "Evaluation & Passing Criteria\nTo pass this project course, you must meet all four criteria:\n\nRegistration: The registration must be completed successfully by Nov 1, 2026.\nCutoff Score: The submission from the registered notebook must cross the score cutoff in the Kaggle Leaderboard before the deadline.\nLevel 1 Viva: Must be cleared in the designated batch. Students who do not clear in the first attempt will be given a chance to reattempt. Failing the reattempt requires repeating the project next term.\nLevel 2 Viva: Must be cleared in the designated batch by scoring at least 25/50 marks. Failing the Level 2 viva requires repeating the project next term. There will be no reattempt for Level 2 viva.\n\n\nTotal Score Calculation\nThe formula for computing the Total Score (out of 100) is: Final marks = NB + M + L + S + V\nWhere:\n\nNB: Score of your notebook out of 10 marks (assigned by the viva examiner).\nM: 5 marks awarded for successfully completing all milestones.\nL: Marks based on Kaggle Leaderboard performance, scaled from 0 to 30.\n\\[L = 30 \\times \\frac{\\text{Your best score} - \\text{cutoff score}}{\\text{Top leaderboard score} - \\text{cutoff score}}\\]\nS: Marks based on the number of submissions, scaled from 0 to 5.\n\\[\nS = \\begin{cases}\n5, & \\text{if public score is in top 20\\% of leaderboard} \\\\\n0, & \\text{if } N &lt; 10 \\\\\n5 \\times \\frac{N - 10}{N_{\\max} - 10}, & \\text{if } N \\ge 10\n\\end{cases}\n\\]\n(Where \\(N\\) is the number of submissions made, and \\(N_{\\max}\\) is the maximum number of submissions made as per the leaderboard).\nV: Marks in Viva Voce, out of 50 marks."
+  },
+  {
+    "objectID": "guidelines.html#competition-rules",
+    "href": "guidelines.html#competition-rules",
+    "title": "Guidelines",
+    "section": "Competition & Rules",
+    "text": "Competition & Rules\n\nGeneral Rules\n\nParticipate individually. This is not a group project.\nNo external data can be used to train your model.\nDo not use any accelerators available on the Kaggle platform (use a CPU-only environment).\nSubmitting at least 2 out of 5 milestones is mandatory to complete the project.\nYou can make a maximum of 5 submissions every day.\nSubmissions made by explicitly uploading .csv, .zip, or any other file will not be counted. Only submissions made from the FinalNotebook will be considered.\n\n\n\n\n\n\n\nWarningDisqualification & Penalties\n\n\n\nYour project will be discarded and you will fail the course if:\n\nYou submit a different Kaggle notebook link in the Registration Form than the one you use to make submissions.\nThe final Python notebook (FinalNotebook) is not shared with the competition host.\nYou are found plagiarizing from the internet, a fellow student, or any external sources.\nYou use unauthorized machine learning libraries.\nYour notebook is made public (it must remain private)."
+  },
+  {
+    "objectID": "guidelines.html#allowed-libraries",
+    "href": "guidelines.html#allowed-libraries",
+    "title": "Guidelines",
+    "section": "Allowed Libraries",
+    "text": "Allowed Libraries\nYou may use Python’s built-in libraries and the following pre-installed packages:\n\nNumPy\nPandas\nMatplotlib\nScikit-learn\nXGBoost\nSeaborn\nImblearn\nSciPy\nregex\nLightGBM\nPlotly\nstatsmodels\nWordcloud\nCatBoost\n\n\n\n\n\n\n\nImportant\n\n\n\nNot Allowed: TensorFlow, PyTorch, NLTK, Pickle, AutoML frameworks, spaCy, word2vec, textblob, etc. The end-to-end work must be shown in the Kaggle notebook. Use of pretrained models or locally run experiments will not be evaluated."
+  },
+  {
+    "objectID": "guidelines.html#milestones",
+    "href": "guidelines.html#milestones",
+    "title": "Guidelines",
+    "section": "Milestones",
+    "text": "Milestones\nFollowing the milestones and completing the corresponding assignments via the Seek portal is mandatory. The milestone is considered submitted only when you receive the response copy to your email ID.\n\n\n\nMilestone\nDeadline\n\n\n\n\nMilestone 1\nOct 11, 2026 (Sunday)\n\n\nMilestone 2\nOct 18, 2026 (Sunday)\n\n\nMilestone 3\nOct 25, 2026 (Sunday)\n\n\nMilestone 4\nNov 1, 2026 (Sunday)\n\n\nMilestone 5\nNov 8, 2026 (Sunday)\n\n\n\n\n\n\n\n\n\nNoteCourse Pacing Note\n\n\n\nThe MLP Project milestones are not in sync with the MLP course. Ideally, the project should be taken after completing the course. Taking both concurrently is only recommended for students already experienced with ML."
+  },
+  {
+    "objectID": "guidelines.html#viva-examinations",
+    "href": "guidelines.html#viva-examinations",
+    "title": "Guidelines",
+    "section": "Viva Examinations",
+    "text": "Viva Examinations"
+  },
+  {
+    "objectID": "guidelines.html#level-1-viva",
+    "href": "guidelines.html#level-1-viva",
+    "title": "Guidelines",
+    "section": "Level 1 Viva",
+    "text": "Level 1 Viva\nThe Level-1 Viva is designed to ensure that each participant in the Kaggle Project has put in a significant amount of effort in their MLP Project. This ensures that only participants who have shown dedication and effort in their Project work are eligible for the Level-2 Viva.\n\n\n\n\n\n\nImportant\n\n\n\nCompleting all items on the checklist is mandatory.\n\n\n\nLevel 1 Viva Checklist\nThe following components will be tested in the Level 1 viva:\n\nProblem statement and dataset\n\nThe problem statement is understood correctly.\nThe dataset is appropriately loaded.\n\nEnd-to-end analytical reasoning\n\nThe focus throughout the notebook from EDA → Preprocessing → Feature Engineering → Model Building → Error / Performance Analysis is to highlight the insights and explain the influence of each step on the subsequent approach.\n\nExploratory Data Analysis (EDA)\n\nObjective: Understand key statistics and relationships in the dataset.\nIncludes univariate and bivariate feature analysis on the relevant features.\nUse appropriate visualizations that are clear, readable, and relevant.\n\nSystematic preprocessing of the data\n\nDetection and appropriate handling of missing values.\nNeed for appropriate scaling of numerical features.\nNeed for appropriate encoding of categorical features.\nAll data transformations (data cleaning, scaling, encoding, etc.) should be implemented using reusable pipelines or custom functions and consistently applied to both training and test datasets to avoid data leakage, ensure reproducibility, and reduce redundant code.\n\nFeature Engineering / Extraction\n\nCreation of new features / transformation of existing features followed by analysis of their importance.\n\nModel experimentation and hyperparameter tuning\n\nExperiment with multiple models from different families followed by hyperparameter tuning to optimize performance.\n\nModel comparison\n\nCompare the performance of at least three different models on training / validation data using appropriate evaluation metrics.\nHighlight the advantages and disadvantages of each model.\n\nNotebook quality\n\nThe notebook should be clean, well-structured, appropriately commented, and contain the relevant output.\n\nBest-performing model\n\nThe notebook submission should contain the best-performing model.\n\n\n\n\n\n\n\n\nNote\n\n\n\nThe Level-1 viva serves as a check to see if minimum requirements are met before attempting Level-2. The final scores will depend only on the Level-2 performance."
+  },
+  {
+    "objectID": "guidelines.html#repeat-l1-viva",
+    "href": "guidelines.html#repeat-l1-viva",
+    "title": "Guidelines",
+    "section": "Repeat L1 Viva",
+    "text": "Repeat L1 Viva\nIf a student does not meet the minimum requirements in the Level-1 viva, they will get another chance to clear the Level-1 viva provided it is attempted in Batch 1.\n\nLevel 2 Viva Preparation\n\nExplain your code: Be prepared to provide an in-depth explanation of your code, including the reasoning behind your choices and the logic implemented as requested by the examiner.\nConceptual Knowledge: Examiners may ask questions from any DS diploma course you’ve taken (MLF, MLT, statistics, etc.), not just the specific project domain.\nInternal Mechanics: Using an API is not enough. You must understand the 5 components of any used model: Data, Model, Loss function, Optimization, and Evaluation.\nLive Coding: You may be asked to write code from scratch or modify your existing code during the exam."
+  },
+  {
+    "objectID": "milestones.html",
+    "href": "milestones.html",
+    "title": "MLP Project Guidelines",
+    "section": "",
+    "text": "Milestones are sequential checkpoints designed to ensure continual progress and to assist you through the complexities of a complete classical ML pipeline. They are not meant to be limiting or exhaustive; in fact, these five submissions represent only a small fraction of the actual coding and experimentation you will conduct overall. Treat them as a supportive element. Do the heavy lifting in your notebooks first, then use these milestones to step back and concisely articulate the reasoning behind your key technical decisions."
+  },
+  {
+    "objectID": "milestones.html#milestones",
+    "href": "milestones.html#milestones",
+    "title": "MLP Project Guidelines",
+    "section": "",
+    "text": "Milestones are sequential checkpoints designed to ensure continual progress and to assist you through the complexities of a complete classical ML pipeline. They are not meant to be limiting or exhaustive; in fact, these five submissions represent only a small fraction of the actual coding and experimentation you will conduct overall. Treat them as a supportive element. Do the heavy lifting in your notebooks first, then use these milestones to step back and concisely articulate the reasoning behind your key technical decisions."
+  },
+  {
+    "objectID": "milestones.html#submission-instructions",
+    "href": "milestones.html#submission-instructions",
+    "title": "MLP Project Guidelines",
+    "section": "Submission Instructions",
+    "text": "Submission Instructions\n\n\n\n\n\n\nImportantFormatting and Submission Rules\n\n\n\nPlease read and follow these instructions carefully. Strict adherence to the formatting and naming conventions is required to ensure your submission is processed correctly by the automated grading pipeline.\n\n\n\nDocument Preparation\n\nCreate a copy of the provided .docx template for the current milestone.\nWrite your answers directly beneath each of the 10 questions in the document.\n\nAnswering Guidelines\n\nLength Constraint: Keep your answers concise. Provide no more than 10 lines of text per question.\nContent Focus: For every question, you must clearly describe the specific classical machine learning approach you have taken and the underlying reasoning for your decisions. Focus on the why and how.\n\nFile Naming and Export\n\nOnce you have finished writing your report, save or export the .docx document as a PDF.\nRename the PDF file using the following exact convention: [roll-number]_26t3_M[Milestone-Number].pdf\nExample: If your roll number is 21f1001234 and you are submitting the PDF for Milestone 1, your file must be named exactly: 21f1001234_26t3_M1.pdf\n\n\n\n\n\n\n\n\nWarningNote on Evaluation\n\n\n\nFailure to follow the exact file naming convention may result in parsing errors during evaluation. Please double-check your file name before uploading."
+  },
+  {
+    "objectID": "milestones.html#timeline",
+    "href": "milestones.html#timeline",
+    "title": "MLP Project Guidelines",
+    "section": "Timeline",
+    "text": "Timeline\nFollowing the milestones and completing the corresponding assignments is mandatory to complete the project. The questions for the milestones will be shared via a form in the course portal. The milestone is considered submitted only when you receive the response copy to your email ID.\n\n\n\nMilestones\nDeadline\n\n\n\n\nMilestone 1\nOct 11, 2026 Sunday\n\n\nMilestone 2\nOct 18, 2026 Sunday\n\n\nMilestone 3\nOct 25, 2026 Sunday\n\n\nMilestone 4\nNov 1, 2026 Sunday\n\n\nMilestone 5\nNov 8, 2026 Sunday\n\n\n\nThere will be an assignment in the corresponding week for each of the above milestones in the Seek portal."
+  }
+]

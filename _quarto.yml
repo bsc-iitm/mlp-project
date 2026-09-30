@@ -1,0 +1,29 @@
+project:
+  type: website
+
+website:
+  title: "MLP Project Guidelines"
+  navbar:
+    left:
+      - href: guidelines.qmd
+        text: Guidelines
+      - href: essentials.qmd
+        text: Essentials
+      - href: milestones.qmd
+        text: Milestones 
+      - href: resources.qmd
+        text: Resources
+      - href: faq.qmd
+        text: FAQ  
+
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+      - flatly
+    css: styles.css
+    toc: true
+
+
+

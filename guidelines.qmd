@@ -1,0 +1,226 @@
+---
+title: "Guidelines"
+format:
+  html:
+    toc: true
+    toc-depth: 2
+    theme: flatly
+    number-sections: false
+---
+
+## Project Registration (7 Easy Steps)
+
+0. Create a Kaggle account if you don’t already have one.
+1. Join the Competition using the link provided in the registration form: <https://forms.gle/feAcuNCyyLHWzo6u5>
+2. After joining the competition, go to the **Code** tab and create a **New Notebook**.
+3. Keep the notebook name as **`YourRollNo-notebook-2026t3`**.
+   * *Example 1:* If your Roll No is `21f1001234` $\rightarrow$ `21f1001234-notebook-2026t3`
+   * *Example 2:* If your Roll No is `21ds3003454` $\rightarrow$ `21ds3003454-notebook-2026t3`
+4. Share the notebook with collaborator **[iitmbscs2008p](https://www.kaggle.com/iitmbscs2008p)**. View access is sufficient. Keep it **Private**. 
+   * *Note: If access is not maintained until the end of the term, this will be treated as an unsuccessful registration.*
+5. Build your first ML model (e.g., [dummy](https://scikit-learn.org/stable/api/sklearn.dummy.html#module-sklearn.dummy) or any other) and make your first submission.
+6. **Submit** your **notebook link** in the [Competition Registration Form](https://forms.gle/feAcuNCyyLHWzo6u5). 
+7. Check your status regularly. **Without submitting the form, you will not be eligible to complete the project or attempt the viva.**
+
+---
+
+:::{.callout-important title="Registration Deadline"}
+The deadline to successfully register is **11:59 PM IST on Nov 1, 2026**. Subsequent registrations will incur a penalty of 1 mark per week.
+:::
+
+## Project Workflow & Timelines
+
+![Project Workflow Diagram](images\image_1.png)
+
+### Key Dates
+
+* **Release of project statement:** 30-09-2026
+* **Extension of Deadline for submitting notebook link:** Nov 1, 2026
+* **Kaggle competition deadline:** Nov 15, 2026
+* **Latest Viva & Evaluation Policy:** [Click here](https://docs.google.com/document/d/e/2PACX-1vRk6UIkK14-ZCsEJsoQZpWHcNTQgs-0CF30efRCrR3YLGLSu_SqBS0BspY3WYXRprITWUSbV-xz0UUR/pub)
+
+### MLP Project Evaluation Timelines
+
+| MLP Course Theory Completion Term | Deadline to Cross Cutoff | Deadline to Complete Both Vivas | Evaluation Scheme |
+| :--- | :--- | :--- | :--- |
+| **Jan 2026 and earlier** | Nov 15, 2026 | Dec 6, 2026 | Evaluated out of 100 marks. |
+| **May 2026** | Nov 15, 2026 | Dec 6, 2026 | Evaluated out of 105 marks. |
+| **Sep 2026** | Nov 22, 2026 | Dec 20, 2026 | Evaluated out of 105 marks. The bonus is subject to the Viva completion batch. |
+
+### Criterion for Bonus Marks
+Students who have completed the MLP theory course in **May 2026** or are pursuing it in the **Sep 2026** term, are eligible for up to 5 bonus marks depending on their Level-2 viva batches:
+
+* **Batch 1:** Eligible for 5 marks bonus, viva reattempt allowed in case of failure.
+* **Batch 2:** No bonus marks, no reattempt of viva.
+
+:::{.callout-warning}
+The Kaggle competition will effectively run for a maximum of 6 weeks (45 days). The cut-off has to be crossed by the dates mentioned above. **Failure to do so will require repeating the project in the next term.**
+:::
+
+:::{.callout-note}
+You may continue to participate in the competition and **improve your score even after completing your viva**, until the competition ends. However, students who do not meet the deadline for completing both vivas will not be given any further opportunities.
+:::
+
+---
+
+## Evaluation & Passing Criteria
+
+To pass this project course, you must meet all four criteria:
+
+1. **Registration:** The registration must be completed successfully by Nov 1, 2026.
+2. **Cutoff Score:** The submission from the registered notebook must cross the score cutoff in the Kaggle Leaderboard before the deadline.
+3. **Level 1 Viva:** Must be cleared in the designated batch. Students who do not clear in the first attempt will be given a chance to reattempt. Failing the reattempt requires repeating the project next term.
+4. **Level 2 Viva:** Must be cleared in the designated batch by scoring at least **25/50 marks**. Failing the Level 2 viva requires repeating the project next term. There will be no reattempt for Level 2 viva.
+
+### Total Score Calculation
+
+The formula for computing the Total Score (out of 100) is:
+**Final marks = NB + M + L + S + V**
+
+Where:
+
+* **NB:** Score of your notebook out of 10 marks (assigned by the viva examiner).
+* **M:** 5 marks awarded for successfully completing all milestones.
+* **L:** Marks based on Kaggle Leaderboard performance, scaled from 0 to 30.
+
+  $$L = 30 \times \frac{\text{Your best score} - \text{cutoff score}}{\text{Top leaderboard score} - \text{cutoff score}}$$
+
+* **S:** Marks based on the number of submissions, scaled from 0 to 5.
+
+  $$
+  S = \begin{cases} 
+  5, & \text{if public score is in top 20\% of leaderboard} \\ 
+  0, & \text{if } N < 10 \\ 
+  5 \times \frac{N - 10}{N_{\max} - 10}, & \text{if } N \ge 10 
+  \end{cases}
+  $$
+
+  *(Where $N$ is the number of submissions made, and $N_{\max}$ is the maximum number of submissions made as per the leaderboard).*
+
+* **V:** Marks in Viva Voce, out of 50 marks.
+
+## Competition & Rules
+
+### General Rules
+1. Participate individually. This is not a group project.
+2. No external data can be used to train your model.
+3. Do not use any accelerators available on the Kaggle platform (use a CPU-only environment).
+4. Submitting at least 2 out of 5 milestones is mandatory to complete the project.
+5. You can make a maximum of **5 submissions every day**.
+6. Submissions made by explicitly uploading `.csv`, `.zip`, or any other file will not be counted. **Only submissions made from the `FinalNotebook` will be considered.**
+
+:::{.callout-warning title="Disqualification & Penalties"}
+Your project will be discarded and you will fail the course if:
+
+1. You submit a different Kaggle notebook link in the Registration Form than the one you use to make submissions.
+2. The final Python notebook (`FinalNotebook`) is not shared with the competition host.
+3. You are found plagiarizing from the internet, a fellow student, or any external sources.
+4. You use unauthorized machine learning libraries.
+5. Your notebook is made public (it must remain private).
+:::
+---
+
+## Allowed Libraries
+
+You may use Python's built-in libraries and the following pre-installed packages:
+
+1. [NumPy](https://numpy.org/doc/stable/user/index.html)
+2. [Pandas](https://pandas.pydata.org/docs/user_guide/index.html)
+3. [Matplotlib](https://matplotlib.org/stable/users/index)
+4. [Scikit-learn](https://scikit-learn.org/stable/supervised_learning.html)
+5. [XGBoost](https://xgboost.readthedocs.io/en/latest/install.html)
+6. [Seaborn](https://seaborn.pydata.org/)
+7. [Imblearn](https://imbalanced-learn.org/stable/)
+8. [SciPy](https://docs.scipy.org/doc/scipy/tutorial/index.html)
+9. regex
+10. [LightGBM](https://lightgbm.readthedocs.io/en/stable/)
+11. [Plotly](https://plotly.com/)
+12. [statsmodels](https://www.statsmodels.org/stable/index.html)
+13. Wordcloud
+14. CatBoost
+
+:::{.callout-important}
+**Not Allowed:** TensorFlow, PyTorch, NLTK, Pickle, AutoML frameworks, spaCy, word2vec, textblob, etc. The end-to-end work must be shown in the Kaggle notebook. Use of pretrained models or locally run experiments will not be evaluated.
+:::
+
+---
+
+## Milestones
+
+Following the milestones and completing the corresponding assignments via the Seek portal is mandatory. The milestone is considered submitted only when you receive the response copy to your email ID.
+
+| Milestone | Deadline |
+| :--- | :--- |
+| **Milestone 1** | Oct 11, 2026 (Sunday) |
+| **Milestone 2** | Oct 18, 2026 (Sunday) |
+| **Milestone 3** | Oct 25, 2026 (Sunday) |
+| **Milestone 4** | Nov 1, 2026 (Sunday) |
+| **Milestone 5** | Nov 8, 2026 (Sunday) |
+
+:::{.callout-note title="Course Pacing Note"}
+The MLP Project milestones are not in sync with the MLP course. Ideally, the project should be taken after completing the course. Taking both concurrently is only recommended for students already experienced with ML.
+:::
+
+---
+
+## Viva Examinations
+
+## Level 1 Viva
+
+The Level-1 Viva is designed to ensure that each participant in the Kaggle Project has put in a significant amount of effort in their MLP Project. This ensures that only participants who have shown dedication and effort in their Project work are eligible for the Level-2 Viva.
+
+::: {.callout-important}
+**Completing all items on the checklist is mandatory.**
+:::
+
+### Level 1 Viva Checklist
+
+The following components will be tested in the Level 1 viva:
+
+1. **Problem statement and dataset**
+   - The problem statement is understood correctly.
+   - The dataset is appropriately loaded.
+
+2. **End-to-end analytical reasoning**
+   - The focus throughout the notebook from **EDA → Preprocessing → Feature Engineering → Model Building → Error / Performance Analysis** is to highlight the insights and explain the influence of each step on the subsequent approach.
+
+3. **Exploratory Data Analysis (EDA)**
+   - **Objective:** Understand key statistics and relationships in the dataset.
+   - Includes univariate and bivariate feature analysis on the relevant features.
+   - Use appropriate visualizations that are clear, readable, and relevant.
+
+4. **Systematic preprocessing of the data**
+   - Detection and appropriate handling of missing values.
+   - Need for appropriate scaling of numerical features.
+   - Need for appropriate encoding of categorical features.
+   - All **data transformations** (data cleaning, scaling, encoding, etc.) should be implemented **using reusable pipelines or custom functions** and consistently applied to both training and test datasets to avoid data leakage, ensure reproducibility, and reduce redundant code.
+
+5. **Feature Engineering / Extraction**
+   - Creation of new features / transformation of existing features followed by analysis of their importance.
+
+6. **Model experimentation and hyperparameter tuning**
+   - Experiment with multiple models from different families followed by hyperparameter tuning to optimize performance.
+
+7. **Model comparison**
+   - Compare the performance of **at least three different models** on training / validation data using appropriate evaluation metrics.
+   - Highlight the advantages and disadvantages of each model.
+
+8. **Notebook quality**
+   - The notebook should be clean, well-structured, appropriately commented, and contain the relevant output.
+
+9. **Best-performing model**
+   - The notebook submission should contain the best-performing model.
+
+::: {.callout-note}
+The Level-1 viva serves as a check to see if minimum requirements are met before attempting Level-2. **The final scores will depend only on the Level-2 performance.**
+:::
+
+## Repeat L1 Viva
+
+If a student does not meet the minimum requirements in the Level-1 viva, they will get another chance to clear the Level-1 viva provided it is attempted in **Batch 1**.
+
+### Level 2 Viva Preparation
+1. **Explain your code:** Be prepared to provide an in-depth explanation of your code, including the reasoning behind your choices and the logic implemented as requested by the examiner. 
+2. **Conceptual Knowledge:** Examiners may ask questions from *any* DS diploma course you've taken (MLF, MLT, statistics, etc.), not just the specific project domain.
+3. **Internal Mechanics:** Using an API is not enough. You must understand the 5 components of any used model: Data, Model, Loss function, Optimization, and Evaluation.
+4. **Live Coding:** You may be asked to write code from scratch or modify your existing code during the exam.
