@@ -22,6 +22,8 @@ format:
 6. **Submit** your **notebook link** in the [Competition Registration Form](https://forms.gle/feAcuNCyyLHWzo6u5). 
 7. Check your status regularly. **Without submitting the form, you will not be eligible to complete the project or attempt the viva.**
 
+**Registration status:** [Click here](https://docs.google.com/spreadsheets/d/e/2PACX-1vQR3wtXmWlFs9weI5xL5MTUk1OM9tB_CynI4cV-bnPcwgkZYfQtyGS9Kv-rVtdzXfIFvSpL4pHR68ri/pubhtml?gid=144795062&single=true)
+
 ---
 
 :::{.callout-important title="Registration Deadline"}
@@ -36,8 +38,13 @@ The deadline to successfully register is **11:59 PM IST on Nov 1, 2026**. Subseq
 
 * **Release of project statement:** 30-09-2026
 * **Extension of Deadline for submitting notebook link:** Nov 1, 2026
+* **Cut-off Score:** >0.70 
 * **Kaggle competition deadline:** Nov 15, 2026
 * **Latest Viva & Evaluation Policy:** [Click here](https://docs.google.com/document/d/e/2PACX-1vRk6UIkK14-ZCsEJsoQZpWHcNTQgs-0CF30efRCrR3YLGLSu_SqBS0BspY3WYXRprITWUSbV-xz0UUR/pub)
+
+:::{.callout-important title="Cut-Off Score"}
+The leaderboard score obtained through a submission from the notebook shared during registration, should be greater than 0.70 and completed before the deadline to be eligible for the viva. 
+:::
 
 ### MLP Project Evaluation Timelines
 
@@ -68,7 +75,7 @@ You may continue to participate in the competition and **improve your score even
 To pass this project course, you must meet all four criteria:
 
 1. **Registration:** The registration must be completed successfully by Nov 1, 2026.
-2. **Cutoff Score:** The submission from the registered notebook must cross the score cutoff in the Kaggle Leaderboard before the deadline.
+2. **Cutoff Score:** The submission from the registered notebook must cross the score cutoff (>0.70) in the Kaggle Leaderboard before the deadline.
 3. **Level 1 Viva:** Must be cleared in the designated batch. Students who do not clear in the first attempt will be given a chance to reattempt. Failing the reattempt requires repeating the project next term.
 4. **Level 2 Viva:** Must be cleared in the designated batch by scoring at least **25/50 marks**. Failing the Level 2 viva requires repeating the project next term. There will be no reattempt for Level 2 viva.
 
