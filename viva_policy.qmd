@@ -1,0 +1,215 @@
+# MLP Project Viva Guidelines
+
+The following document outlines the comprehensive guidelines, timelines, evaluation scheme, and academic integrity policies for the MLP Project Viva examinations. All students must read and adhere to these guidelines.
+
+::: {.callout-important}
+## Eligibility at a glance
+
+To become eligible for the Viva examinations, students must be successfully registered and obtain a submission score on the Kaggle Leaderboard greater than 0.70 before the provided deadlines.
+:::
+
+## Timelines and Deadlines
+
+The deadlines to cross the Kaggle cutoff and complete your Vivas depend on the term in which you have completed or are completing the MLP theory course. The MLP theory course is considered as completed if you have already obtained a passing grade (includes grades S,A,B,C,D,E).
+
+| MLP Course Theory Completion Term | Deadline to Cross Cutoff | Deadline to Complete Both Vivas | Evaluation Scheme |
+| :--- | :--- | :--- | :--- |
+| **Jan 2026 and earlier** | Nov 15, 2026 | Dec 6, 2026 | Evaluated out of 100 marks. |
+| **May 2026** | Nov 15, 2026 | Dec 6, 2026 | Evaluated out of 105 marks. |
+| **Sep 2026** | Nov 22, 2026 | Dec 20, 2026 | Evaluated out of 105 marks if Viva is completed in Batch 1. |
+
+::: {.callout-note}
+The deadlines mentioned above are to cross the cut-off score. All students, regardless of batch, may continue to make submissions to improve their Kaggle Leaderboard score until the end of the competition (**Nov 22, 2026**).
+:::
+
+## Viva Batches
+
+The Viva examinations will be conducted in **2 batches**. The bonus marks provided and the Viva reattempt policy is subject to the batch.
+
+| Batch | Level 1 | Level 2 | Level 1 Reattempt |
+|:---|:---:|:---:|:---:|
+| **Batch 1** | Nov 9 onwards | Nov 17 onwards | Allowed |
+| **Batch 2** | Dec 6 onwards |  | Not Allowed |
+
+The Level 2 Viva examination will not have a reattempt option in both the batches. Students who fail the Level 2 Viva examination will have to register and pay the fees to repeat the entire project in the next term.
+
+::: {.callout-note}
+The batches for Viva examination completion too are based on the MLP theory course completion term. Students who have already obtained a passing grade in May 2026 term or earlier have to complete both the Level 1 and Level 2 Viva examinations in **Batch 1**. Students completing the MLP theory course in Sep 2026 term can complete their Viva in either Batch 1 or Batch 2. The bonus component for students doing the MLP theory course in Sep 2026 term is applicable only if they complete their Viva in **Batch 1**.
+:::
+
+Refer to the following link for detailed Viva calendar and schedule: [MLP Project Viva Calendar](https://docs.google.com/spreadsheets/d/1CWPhkg6dLn0eV-Pu9tIv9cr082x1IsapVbor3TEJsS0/edit?gid=0#gid=0)
+
+### Sep 2026 Bonus Structure
+
+For students completing the MLP theory course in the Sep 2026 term:
+
+| Viva Completion Batch | Project Evaluation |
+|:---|:---:|
+| Batch 1 | Out of **105** |
+| Batch 2 | Out of **100** — no bonus applicable |
+
+## Viva Evaluation Policy: Sep 2026 Onwards — MLP & DLGenAI
+
+| Stage / Eligibility or Condition | Policy Decision |
+|:---|:---|
+| **Not eligible for L1 viva** | Registration issues or didn’t cross the cutoff. **U or I grade** based on registration status. |
+| **Eligible for L1 but not booked** | L1 viva not scheduled. The student must submit the form with a valid reason. If not submitted or the reason is invalid, the case will be treated as suspected malpractice & student will get a **U grade**. |
+| **Failed L1 viva — Jan & May 2026** | Reappear in the subsequent batch with a **Rs. 1000 reattempt fee**. |
+| **Failed L1 viva — Sept 2025 or before** | **U grade**, redo project with full fee in the subsequent term. |
+| **Passed both vivas, but plagiarism failed** | No discrepancy raised by the student: **U grade + redo project with full fee + DWC action**, which includes U grade in all courses and a one-term ban. |
+| **Passed L1 viva, but L2 not booked** | L2 viva not scheduled. **U grade + redo project with full fee**. Case treated as suspected malpractice unless a valid reason is submitted through the form. |
+| **Level 2 failed: score < 15** | **U grade plus redo project with full fee**. |
+| **Level 2 failed: score 15 to < 25** | The project may be passed with a **D/E grade** at the instructor's discretion. |
+| **Malpractice confirmed — any stage** | **U grade + redo project with full fee + DWC action**, which includes U grade in all courses and a one-term ban. |
+
+## Academic Malpractice
+
+The project will be considered complete only once the final grade for the project course is published on the student dashboard.
+
+Any inappropriate conduct during the project period may be treated as malpractice. This includes, but is not limited to:
+
+- Sharing code snippets, notebooks, or any project-related material with any other students. This includes students not registered for the project course.
+- Submitting work that is wholly or partially copied from another student.
+- Allowing another individual to complete any portion of the project on one’s behalf.
+- Using solutions, code repositories, or notebooks from external sources.
+- Reproducing project outputs that are substantially similar to another student’s work, even if variable names or minor details are altered.
+
+### Penalties
+
+All parties flagged under academic malpractice will be subject to the following penalties:
+
+- **‘U’ grade in all the courses in the concerned term**
+- **Debarred from registering for courses in the subsequent 2 terms**
+
+::: {.callout-danger}
+## Academic integrity reminder
+
+Students should ensure that all project work, code, notebooks, analyses, and outputs are their own and comply with the stated academic integrity requirements.
+:::
+
+## Level 1 Viva
+
+The Level-1 Viva is designed to ensure that each participant in the Kaggle Project has put in a significant amount of effort in their MLP Project. This ensures that only participants who have shown dedication and effort in their Project work are eligible for the Level-2 Viva.
+
+::: {.callout-important}
+**Completing all items on the checklist is mandatory.**
+:::
+
+### Level 1 Viva Checklist
+
+The following components will be tested in the Level 1 viva:
+
+1. **Problem statement and dataset**
+   - The problem statement is understood correctly.
+   - The dataset is appropriately loaded.
+
+2. **End-to-end analytical reasoning**
+   - The focus throughout the notebook from **EDA → Preprocessing → Feature Engineering → Model Building → Error / Performance Analysis** is to highlight the insights and explain the influence of each step on the subsequent approach.
+
+3. **Exploratory Data Analysis (EDA)**
+   - **Objective:** Understand key statistics and relationships in the dataset.
+   - Includes univariate and bivariate feature analysis on the relevant features.
+   - Use appropriate visualizations that are clear, readable, and relevant.
+
+4. **Systematic preprocessing of the data**
+   - Detection and appropriate handling of missing values.
+   - Need for appropriate scaling of numerical features.
+   - Need for appropriate encoding of categorical features.
+   - All **data transformations** (data cleaning, scaling, encoding, etc.) should be implemented **using reusable pipelines or custom functions** and consistently applied to both training and test datasets to avoid data leakage, ensure reproducibility, and reduce redundant code.
+
+5. **Feature Engineering / Extraction**
+   - Creation of new features / transformation of existing features followed by analysis of their importance.
+
+6. **Model experimentation and hyperparameter tuning**
+   - Experiment with multiple models from different families followed by hyperparameter tuning to optimize performance.
+
+7. **Model comparison**
+   - Compare the performance of **at least three different models** on training / validation data using appropriate evaluation metrics.
+   - Highlight the advantages and disadvantages of each model.
+
+8. **Notebook quality**
+   - The notebook should be clean, well-structured, appropriately commented, and contain the relevant output.
+
+9. **Best-performing model**
+   - The notebook submission should contain the best-performing model.
+
+::: {.callout-note}
+The Level-1 viva serves as a check to see if minimum requirements are met before attempting Level-2. **The final scores will depend only on the Level-2 performance.**
+:::
+
+## Repeat L1 Viva
+
+If a student does not meet the minimum requirements in the Level-1 viva, they will get another chance to clear the Level-1 viva provided it is attempted in **Batch 1**.
+
+## Level 2 Viva
+
+### How to Prepare for Level 2 Viva Voce Examination
+
+#### Kaggle Notebook
+
+You are expected to clearly explain the code you have written and logically describe your choice of:
+
+- Data preprocessing steps
+- Modeling approach
+- Inspection of underfitting / overfitting
+
+The viva examiner may ask you to briefly (**5 minutes or less**) walk through your Kaggle notebook.
+
+#### Scope of Questions
+
+The viva examiner may ask questions from **any course you have taken for your DS diploma**.
+
+The Kaggle competition may belong to only, say, classification, yet the examiner can ask questions from:
+
+- Regression
+- Unsupervised machine learning
+- All topics learned in courses till MLP
+- MLF
+- MLT
+- Statistics
+- Other relevant course topics
+
+#### Internal Working of Models
+
+Only using an API (e.g. `DecisionTreeClassifier`, `SVC`, etc.) is not sufficient. You should also know **how the model works internally**.
+
+For every machine learning model that you have learnt and/or used in your Kaggle notebook, you must know and be able to explain its **5 components**:
+
+| Component | What you should know |
+|:---|:---|
+| **1. Data** | The data used by the model |
+| **2. Model** | The mathematical / algorithmic model |
+| **3. Loss function** | How prediction error is measured |
+| **4. Optimization procedure / training** | How the model learns its parameters |
+| **5. Evaluation** | How model performance is assessed |
+
+#### Programming During the Viva
+
+You may be asked to:
+
+- Write code from scratch.
+- Make changes to your existing code during the viva examination.
+
+## Level 2 Viva Marking Scheme
+
+For Level 2 viva, students are expected to be well-versed with the following details of the components mentioned in the subsequent table:
+
+| Area | Expected Knowledge |
+|:---|:---|
+| **1. Conceptual understanding** | Clear understanding of the underlying concepts |
+| **2. Mathematical details** | Ability to explain relevant mathematical foundations |
+| **3. Practical aspect** | Ability to apply concepts to practical problems |
+| **4. Programming** | Ability to implement and modify solutions in code |
+
+## Repeat Level 2 Viva-voce Examination
+
+In case a student scores between **15–24/50 marks**, they may be passed with **D / E grade** at the instructor’s discretion.
+
+If a student scores **<15/50** in the viva examination, they have to:
+
+1. Register and pay the fees.
+2. Repeat the entire project the next term.
+3. Become eligible to attend the viva.
+
+It is seen that such students need more practice and time to study the fundamentals again.
+
